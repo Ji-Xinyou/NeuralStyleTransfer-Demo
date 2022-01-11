@@ -10,4 +10,4 @@ Use **anaconda** or **pip** to install the dependencies
 
 ## Output demo
 
-![demo](demo.png)
+![image](https://github.com/Ji-Xinyou/NeuralStyleTransfer-Demo/demo.png)
